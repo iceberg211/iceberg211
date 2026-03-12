@@ -2,22 +2,13 @@
 
 ---
 
-## 👨‍💻 关于我
-
-- 目前主要关注：**Trading / 订单流分析 / Web3 / 全栈工程化 / AI 应用**
-- 长期在做交易分析工具与数据可视化，偏好“可复盘、可验证、可持续迭代”的系统设计
-- 喜欢把研究想法快速落地成可用工具或 Demo，并持续打磨成作品级项目
-
----
-
 ## 🔧 技术栈
 
-- 语言：TypeScript / JavaScript / Python / Solidity
-- 前端：React / Next.js / Tailwind CSS / ECharts
-- 后端：NestJS / Express / Node.js
-- 数据分析：Pandas / NumPy / 订单流数据处理 / 可视化分析
+- 语言：TypeScript / JavaScript / Pine Script
+- 前端：React / Next.js / Tailwind CSS / Vue
+- 后端：NestJS / Express / Koa
 - AI：LLM 应用集成 / Prompt 工程 / AI 辅助分析与自动化
-- Web3：EVM 生态、合约开发、链上数据分析与工具化
+- Web3：Solidity语言，EVM 生态、合约开发、链上数据分析与工具化
 
 ---
 
@@ -32,10 +23,11 @@
 
 ## 📌 项目实践
 
-- `trading`：交易相关策略与工具实践，聚焦从想法到可执行系统的落地
-- `orderflow`：订单流分析项目，围绕成交结构、主动买卖力量与市场行为分析
-- `stock`：技术分析与复盘流程沉淀，包含多维度观察与记录
-- 持续孵化中：交易分析 + AI 助手 + 数据看板的一体化研究平台
+- [Crypto-Trading-Terminal](https://github.com/iceberg211/trading)：仿照币安现货实现的前端页面，包含行情展示、K线图、订单簿、交易等功能
+- [monad-parallel-pay](https://github.com/iceberg211/monad-parallel-pay)：Monad 链上的支付应用，探索链上支付场景
+- [market-breadth](https://github.com/iceberg211/market-breadth)：使用 Pine Script 实现的市场宽度（Market Breadth）计算与可视化分析
+- [stock-technical-analysis](https://github.com/iceberg211/stock-technical-analysis)：将个人股票技术分析方法沉淀为可复用的 Skill 化能力
+- [orderflow](https://github.com/iceberg211/orderflow-skill)：订单流分析 Skill 项目，围绕主动买卖力量、成交结构与复盘分析
 
 ---
 
